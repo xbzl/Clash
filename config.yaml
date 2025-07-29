@@ -1,13 +1,13 @@
 proxy-providers:
-  Airport1:
-    url: "https://checkhere.top/link/X2c0QLeqQpIyhJk7?clash=1"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连
+  # Airport1:
+  #   url: "https://checkhere.top/link/X2c0QLeqQpIyhJk7?clash=1"
+  #   type: http
+  #   interval: 86400
+  #   health-check:
+  #     enable: true
+  #     url: https://www.gstatic.com/generate_204
+  #     interval: 300
+  #   proxy: 直连
 
     Airport2:
     url: "https://acl.syyn.pw/api/v1/client/subscribe?token=7fba5954511601781786c57680dbf0ef"
